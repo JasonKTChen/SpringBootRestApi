@@ -1,4 +1,4 @@
-package com.example.springbootrestapi.demain.dto;
+package com.example.springbootrestapi.domain.dto;
 
 import java.util.Set;
 

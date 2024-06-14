@@ -1,6 +1,6 @@
 package com.example.springbootrestapi.repository.repository.impl;
 
-import com.example.springbootrestapi.demain.entity.Book;
+import com.example.springbootrestapi.domain.entity.Book;
 import com.example.springbootrestapi.repository.CustomBookRepository;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;

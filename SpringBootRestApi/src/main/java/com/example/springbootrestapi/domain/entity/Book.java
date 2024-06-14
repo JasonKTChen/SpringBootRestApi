@@ -1,4 +1,4 @@
-package com.example.springbootrestapi.demain.entity;
+package com.example.springbootrestapi.domain.entity;
 
 import jakarta.persistence.*;
 import org.springframework.data.annotation.Id;

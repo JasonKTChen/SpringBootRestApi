@@ -1,6 +1,6 @@
 package com.example.springbootrestapi.service.impl;
 
-import com.example.springbootrestapi.demain.entity.Author;
+import com.example.springbootrestapi.domain.entity.Author;
 import com.example.springbootrestapi.exception.ResourceNotFoundException;
 import com.example.springbootrestapi.repository.AuthorRepository;
 import com.example.springbootrestapi.repository.CustomAuthorRepository;

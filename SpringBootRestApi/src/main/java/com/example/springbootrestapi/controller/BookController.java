@@ -1,9 +1,9 @@
 package com.example.springbootrestapi.controller;
 
-import com.example.springbootrestapi.demain.dto.AuthorDto;
-import com.example.springbootrestapi.demain.dto.BookDto;
-import com.example.springbootrestapi.demain.entity.Author;
-import com.example.springbootrestapi.demain.entity.Book;
+import com.example.springbootrestapi.domain.dto.AuthorDto;
+import com.example.springbootrestapi.domain.dto.BookDto;
+import com.example.springbootrestapi.domain.entity.Author;
+import com.example.springbootrestapi.domain.entity.Book;
 import com.example.springbootrestapi.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

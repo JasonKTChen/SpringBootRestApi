@@ -1,6 +1,6 @@
 package com.example.springbootrestapi.service;
 
-import com.example.springbootrestapi.demain.entity.Book;
+import com.example.springbootrestapi.domain.entity.Book;
 
 import java.util.List;
 public interface BookService {

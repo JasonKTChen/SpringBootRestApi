@@ -1,6 +1,6 @@
 package com.example.springbootrestapi.service;
 
-import com.example.springbootrestapi.demain.entity.Author;
+import com.example.springbootrestapi.domain.entity.Author;
 
 import java.util.List;
 
